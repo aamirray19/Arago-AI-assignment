@@ -35,5 +35,5 @@ The code has been explained using comments in the notebook.
 
 [Shipment Delay](https://drive.google.com/file/d/1eoCw4zYHtu9ZFsdq4pCKOrnIVg1WQ6DZ/view?usp=sharing)
 
-[Image Classification](Execution{https://drive.google.com/file/d/13F2wgGgH8GWdfwCWGxLXH0IcU5imtKuy/view?usp=sharing})
+[Image Classification](https://drive.google.com/file/d/13F2wgGgH8GWdfwCWGxLXH0IcU5imtKuy/view?usp=sharing)
 
