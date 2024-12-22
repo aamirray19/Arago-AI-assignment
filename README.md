@@ -1,7 +1,7 @@
 
 # Arogo AI assignment
 
-
+This Repository was made to showcase the assignments shipment delay prediction and image classification given by Arogo AI.
 
 
 
